@@ -4,7 +4,8 @@
 ### Teacher
 - [@acetinkaya](https://github.com/acetinkaya) 
 ### Note Loading time range
-- The upload time for lesson notes and lesson hours is the same: Every Thursday between 2:00 and 7:00pm | may vary rarely | 
+- The upload time for lesson notes and lesson hours is the same: Every Thursday between 2:00 and 7:00pm | may vary rarely |
+- No: 116 Lab.  
 ## 2024 İstanbul Gelişim University  
 
 #### TR
@@ -13,5 +14,6 @@
 ### Öğretim Görevlisi
 - [@acetinkaya](https://github.com/acetinkaya) 
 ### Not Yükleme zaman aralığı
-- Ders notları ve ders saatlari aynıdır : Her Perşembe 14:00 ile 19:00 arasıdır. | nadir değişkenlik gösterebilir | 
+- Notların yüklenme saati ve ders saatleri aynıdır : Her Perşembe 14:00 ile 19:00 arasıdır. | nadir değişkenlik gösterebilir |
+- No: 116 Laboratuvar  
 ## 2024 İstanbul Gelişim Üniversitesi 
