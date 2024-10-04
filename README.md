@@ -1,5 +1,5 @@
 #### EN
-# Artificial Intelligence lecture notes
+# Artificial Intelligence lecture files
 - There are Artificial Intelligence lecture notes and homework. | 14 weeks ( second class )
 ### Teacher
 - [@acetinkaya](https://github.com/acetinkaya) 
@@ -9,7 +9,7 @@
 ## 2024 İstanbul Gelişim University  
 
 #### TR
-# Yapay Zeka ders notları
+# Yapay Zeka ders dosyaları
 - 14 Hafta sürecek Yapay Zeka ders notları ve ödevleri bulunmaktadır. ( ikinci / son sınıf )
 ### Öğretim Görevlisi
 - [@acetinkaya](https://github.com/acetinkaya) 
