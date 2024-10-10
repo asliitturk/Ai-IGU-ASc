@@ -10,7 +10,7 @@
 
 #### TR
 # Yapay Zeka ders dosyaları
-- 14 Hafta sürecek Yapay Zeka ders notları ve ödevleri bulunmaktadır. ( ikinci / son sınıf )
+- 14 Hafta sürecek Yapay Zeka ders notları ve ödevleri bulunmaktadır. ( ikinci sınıf )
 ### Öğretim Görevlisi
 - [@acetinkaya](https://github.com/acetinkaya) 
 ### Not Yükleme zaman aralığı
